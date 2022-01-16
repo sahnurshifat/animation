@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-title{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 0 10px 0;
+    color: white;
+    font-weight: 800;
+    background-color: #064477;
+}
+.rotate{
+    display: flex;
+}
+.rotate .pics{ 
+    padding: 10px;
+    margin: 10px;
+}
